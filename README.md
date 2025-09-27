@@ -40,4 +40,4 @@ Mazey
 
 ## License
 
-This software is released under the terms of the [MIT license](https://github.com/mazeyqian/mazey-mip/blob/master/LICENSE).
+This software is released under the terms of the [MIT license](https://github.com/chengchuu/mazey-mip/blob/main/LICENSE).
